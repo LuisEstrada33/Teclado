@@ -1,0 +1,10 @@
+C:\Users\boyhu\source\repos\Teclado\Teclado\bin\Debug\Teclado.exe.config
+C:\Users\boyhu\source\repos\Teclado\Teclado\bin\Debug\Teclado.exe
+C:\Users\boyhu\source\repos\Teclado\Teclado\bin\Debug\Teclado.pdb
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.csprojAssemblyReference.cache
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.Form1.resources
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.Properties.Resources.resources
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.csproj.GenerateResource.cache
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.csproj.CoreCompileInputs.cache
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.exe
+C:\Users\boyhu\source\repos\Teclado\Teclado\obj\Debug\Teclado.pdb
